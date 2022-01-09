@@ -2,8 +2,6 @@
 
 Teams Clone-A meeting webapp. 
 
-Demo:https://barkkk.github.io/team/
-
 ## Current Features
 
 ### 1.1 Video Chat App
@@ -15,11 +13,11 @@ Demo:https://barkkk.github.io/team/
 ## Tech Stack Used :
 HTML, CSS, JS and SCSS
 
-## Demo: https://barkkk.github.io/team/
+## Demo: 
 
 ##Getting Started
 
-1. Click the link https://barkkk.github.io/team/ 
+1. 
 ![alt text](https://github.com/Barkkk/team/blob/main/home%20page.png)
 2. Sign up using your gmail.
 ![alt text](https://github.com/Barkkk/team/blob/main/Sign%20Up.png)
