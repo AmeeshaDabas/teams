@@ -13,22 +13,6 @@ Teams Clone-A meeting webapp.
 ## Tech Stack Used :
 HTML, CSS, JS and SCSS
 
-## Demo: 
-
-##Getting Started
-
-1. 
-![alt text](https://github.com/Barkkk/team/blob/main/home%20page.png)
-2. Sign up using your gmail.
-![alt text](https://github.com/Barkkk/team/blob/main/Sign%20Up.png)
-3. Now create a room code or join using a given roomcode.
-![alt text](https://github.com/Barkkk/team/blob/main/Create%20room.jpeg)
-4. After entering the room, you can copy the code and share the roomcode with your friends and can interact with them over call and chat.
-![alt text](https://github.com/Barkkk/team/blob/main/Room%20SS.jpeg)
-5. Feel free to use whiteboard, screensharing and other features.
-7. You are all set, enjoy video calling with your friends and family.
-
-
 ## Upcoming Features:
 1. Recording
 2. Notepad
